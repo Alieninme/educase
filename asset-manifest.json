@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/educase/static/css/main.1bf3ebd2.css",
+    "main.js": "/educase/static/js/main.67fef04c.js",
+    "index.html": "/educase/index.html",
+    "main.1bf3ebd2.css.map": "/educase/static/css/main.1bf3ebd2.css.map",
+    "main.67fef04c.js.map": "/educase/static/js/main.67fef04c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf3ebd2.css",
+    "static/js/main.67fef04c.js"
+  ]
+}
